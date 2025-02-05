@@ -1,4 +1,4 @@
-# YouTube Playlist Creator
+# Criar playlist do Spotify no Youtube
 
 Este projeto permite criar playlists no YouTube a partir de playlists do Spotify. Ele autentica no Spotify para obter as músicas e depois pesquisa os vídeos correspondentes no YouTube, adicionando-os a uma playlist.
 
@@ -18,7 +18,7 @@ Este projeto permite criar playlists no YouTube a partir de playlists do Spotify
 ## 📦 Instalação
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/alex91168/spotify-playlist-to-youtube.git 
    ```
 2. Entre no diretório do projeto:
    ```sh
